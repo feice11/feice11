@@ -35,4 +35,6 @@ I build Android UI and graphics things: Jetpack Compose components, AGSL shaders
   <img src="profile-summary-card-output/github/3-stats.svg" height="160" alt="Stats">
 </picture>
 
-If my work is useful to you, you can support it on [afdian](https://ifdian.net/a/feice).
+If my work is useful to you, you can support it here:
+
+<a href="https://afdian.com/a/feice"><img src="https://raw.githubusercontent.com/feice11/mochi-compose/main/docs/assets/sponsor-en.svg" alt="Sponsor on afdian" height="68"></a>
